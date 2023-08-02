@@ -35,7 +35,7 @@
 <code><img height="20" src="https://img.icons8.com/nolan/96/nextjs.png"></code> Next.JS
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/node-js.png"></code> Node.JS
-<code><img height="20" src="https://img.icons8.com/nolan/96/express-js.png"></code> Express.J
+<code><img height="20" src="https://img.icons8.com/nolan/96/express-js.png"></code> Express.JS
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/mongo-db.png"></code> MongoDB
 <code><img height="20" src="https://img.icons8.com/nolan/96/sql.png"></code> MySQL
